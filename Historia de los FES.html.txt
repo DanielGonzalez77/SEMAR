@@ -1,0 +1,13 @@
+﻿<html>
+<title>Historia de los FES</title>
+<head></head>
+<body bgcolor="white">
+<font size=5>
+<img src="FES.png" widht="400" height="300" align=left>Sus orígenes se remontan al Batallón Aerotransportado de la Marina a principios de la década de 1990. Las misiones que desempeña la unidad se enfocan a operaciones especiales y operaciones anfibias, con el objetivo de proteger los intereses marítimos de la nación.
+
+Las unidades de Fuerzas Especiales de la Armada de México se crearon en 2001, siendo inicialmente dos: la FESGO (Fuerzas Especiales del Golfo), y la FESPA (Fuerzas Especiales del Pacífico), ambas destinadas para misiones de apoyo a las entonces recién creadas Fuerzas de Reacción Anfibias. En 2008 se formó el FESCEN (Fuerzas Especiales del Centro), con base en la capital del país, cuyo propósito es poner a disposición del Cuartel General del Alto Mando un agrupamiento de tropas especiales para misiones críticas.
+
+Las FES está considerada entre las mejores unidades de operaciones especiales marítimas en el mundo, debido principalmente a su vasta experiencia en redadas contra el narcotráfico, las altas capacidades operativas y el alto grado de adiestramiento al que se encuentran sujetos sus operadores (en el interior de la nación y a través de cursos en el extranjero), el cual es usualmente proporcionado por otras unidades homólogas diferentes partes del mundo.
+
+</body>
+</html>
